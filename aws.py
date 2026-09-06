@@ -1,0 +1,8 @@
+print("Aws Services.......")
+print("Compute: Run applications and virtual servers")
+print("Amazon EC2")
+print("AWS Lambda")
+print("---------------------------------------------------")
+print("Storage: Save files and backup data safely")
+print("Databases: Store structured and unstructured data")
+print("Networking: Connect and secure web traffic")
